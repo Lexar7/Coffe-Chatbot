@@ -1,4 +1,4 @@
-# Define your function
+# Define your functions
 def coffe_bot():
   print('Welcome to the cafe!')
 
